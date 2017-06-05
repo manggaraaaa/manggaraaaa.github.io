@@ -27,3 +27,7 @@ a{
 }
 a:hover{text-decoration:underline}
 .fa{margin:0 10px;}
+
+.footer{
+    font-size: 10px,
+}
