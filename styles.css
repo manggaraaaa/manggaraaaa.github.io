@@ -46,6 +46,16 @@ h2 {
   margin-top: 20px;
 }
 
+.social-links-item a {
+	padding: 4px 8px 4px 2px;
+	border: 1 solid transparent;
+	border-radius: 50px;
+}
+
+.social-links-item a:hover {
+	background-color: #f0f004;
+}
+
 .social-links-item a:nth-last-child(1) {
   margin-top: 4px;
 }
